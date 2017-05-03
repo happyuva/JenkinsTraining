@@ -1,0 +1,6 @@
+D:\Study\ABB Training C#\MyDotNetApps\App28solution\App28\obj\Debug\App28.csprojResolveAssemblyReference.cache
+D:\Study\ABB Training C#\MyDotNetApps\App28solution\App28\bin\Debug\App28.dll.config
+D:\Study\ABB Training C#\MyDotNetApps\App28solution\App28\bin\Debug\App28.dll
+D:\Study\ABB Training C#\MyDotNetApps\App28solution\App28\bin\Debug\App28.pdb
+D:\Study\ABB Training C#\MyDotNetApps\App28solution\App28\obj\Debug\App28.dll
+D:\Study\ABB Training C#\MyDotNetApps\App28solution\App28\obj\Debug\App28.pdb
